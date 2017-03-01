@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Links>
+	<Facility Name="Seattle,WA">
+		<DirectLinks ToCity="Fargo, ND" Distance="1426"></DirectLinks>
+		<DirectLinks Distance="808" ToCity="San Francisco, CA"></DirectLinks></Facility>
+
+	<Facility Name="San Francisco, CA">
+		<DirectLinks ToCity="Seattle,WA" Distance="808"></DirectLinks>
+		<DirectLinks ToCity="Denver, CO" Distance="1249"></DirectLinks>
+		<DirectLinks ToCity="Los Angeles ,CA" Distance="382"></DirectLinks></Facility>
+
+	<Facility Name="Los Angeles ,CA">
+		<DirectLinks ToCity="San Francisco, CA" Distance="382"></DirectLinks>
+		<DirectLinks ToCity="Phoenix, AZ" Distance="372"></DirectLinks>
+		</Facility>
+
+	
+	<Facility Name="Phoenix, AZ">
+		<DirectLinks ToCity="Los Angeles ,CA" Distance="372"></DirectLinks>
+		<DirectLinks ToCity="Santa Fe, NM" Distance="480"></DirectLinks>
+		</Facility>
+
+	<Facility Name="Denver, CO">
+		<DirectLinks ToCity="San Francisco, CA" Distance="1249"></DirectLinks>
+		<DirectLinks ToCity="Santa Fe, NM" Distance="392"></DirectLinks>
+		<DirectLinks ToCity="Fargo, ND" Distance="889"></DirectLinks>
+		<DirectLinks ToCity="St. Louis, MO" Distance="851"></DirectLinks></Facility>
+
+	<Facility Name="Santa Fe, NM">
+		<DirectLinks ToCity="Phoenix, AZ" Distance="480"></DirectLinks>
+		<DirectLinks ToCity="Denver, CO" Distance="392"></DirectLinks>
+		<DirectLinks ToCity="St. Louis, MO" Distance="1032"></DirectLinks>
+		<DirectLinks ToCity="Austin, TX" Distance="688"></DirectLinks>
+	</Facility>
+
+	<Facility Name="Fargo, ND">
+		<DirectLinks ToCity="Seattle" Distance="1426"></DirectLinks>
+		<DirectLinks ToCity="Denver, CO" Distance="889"></DirectLinks>
+		<DirectLinks ToCity="Chicago,IL" Distance="643"></DirectLinks></Facility>
+
+	<Facility Name="Austin, TX">
+		<DirectLinks ToCity="Santa Fe, NM" Distance="688"></DirectLinks>
+		<DirectLinks ToCity="St. Louis, MO" Distance="825"></DirectLinks>
+		<DirectLinks ToCity="New Orleans, LA" Distance="512"></DirectLinks></Facility>
+
+	<Facility Name="St. Louis, MO">
+		<DirectLinks ToCity="Chicago,IL" Distance="297"></DirectLinks>
+		<DirectLinks ToCity="Nashville, TN" Distance="309"></DirectLinks>
+		<DirectLinks ToCity="Austin, TX" Distance="825"></DirectLinks>
+		<DirectLinks ToCity="Santa Fe, NM" Distance="1032"></DirectLinks>
+		<DirectLinks ToCity="Denver, CO" Distance="851"></DirectLinks>
+		</Facility>
+
+	<Facility Name="Chicago,IL">
+		<DirectLinks ToCity="Fargo, ND" Distance="643"></DirectLinks>
+		<DirectLinks ToCity="St. Louis, MO" Distance="297"></DirectLinks>
+		<DirectLinks ToCity="New York City, NY" Distance="790"></DirectLinks>
+		<DirectLinks ToCity="Detroit, MI" Distance="282"> </DirectLinks>
+		</Facility>
+
+	<Facility Name="New Orleans, LA">
+		<DirectLinks ToCity="Austin, TX" Distance="512"></DirectLinks>
+		<DirectLinks ToCity="Nashville, TN" Distance="532"></DirectLinks>
+		<DirectLinks ToCity="Atlanta, GA" Distance="469"></DirectLinks>
+		<DirectLinks ToCity="Miami, FL" Distance="864"></DirectLinks></Facility>
+
+	<Facility Name="Nashville, TN">
+		<DirectLinks ToCity="St. Louis, MO" Distance="309"></DirectLinks>
+		<DirectLinks ToCity="New Orleans, LA" Distance="532"></DirectLinks>
+		<DirectLinks ToCity="Norfolk,VA" Distance="706"></DirectLinks></Facility>
+
+	<Facility Name="Detroit, MI">
+		<DirectLinks ToCity="Chicago,IL" Distance="282"></DirectLinks>
+		<DirectLinks ToCity="New York City, NY" Distance="614"></DirectLinks>
+		<DirectLinks ToCity="Boston, MA" Distance="719"></DirectLinks>
+		</Facility>
+
+	<Facility Name="Boston, MA">
+		<DirectLinks ToCity="Detroit, MI" Distance="719"></DirectLinks>
+		<DirectLinks ToCity="New York City, NY" Distance="215"></DirectLinks></Facility>
+
+	<Facility Name="New York City, NY">
+		<DirectLinks ToCity="Boston, MA" Distance="215"></DirectLinks>
+		<DirectLinks ToCity="Detroit, MI" Distance="614"></DirectLinks>
+		<DirectLinks ToCity="Chicago,IL" Distance="790"></DirectLinks>
+		<DirectLinks ToCity="Norfolk,VA" Distance="363"></DirectLinks>
+		</Facility>
+
+	<Facility Name="Norfolk,VA">
+		<DirectLinks ToCity="New York City, NY" Distance="363"></DirectLinks>
+		<DirectLinks ToCity="Nashville, TN" Distance="706"></DirectLinks>
+		<DirectLinks ToCity="Atlanta, GA" Distance="566"></DirectLinks>
+		</Facility>
+
+	<Facility Name="Atlanta, GA">
+		<DirectLinks ToCity="Norfolk,VA" Distance="566"></DirectLinks>
+		<DirectLinks ToCity="New Orleans, LA" Distance="469"></DirectLinks>
+		<DirectLinks ToCity="Miami, FL" Distance="663"></DirectLinks></Facility>
+
+	<Facility Name="Miami, FL">
+		<DirectLinks ToCity="Atlanta, GA" Distance="663"></DirectLinks>
+		<DirectLinks ToCity="New Orleans, LA" Distance="864"></DirectLinks></Facility>
+
+
+</Links>

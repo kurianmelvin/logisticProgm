@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Orders>
+	<Order id="TO-001" Day="1" Destination="Miami,FL">
+		 
+        <Item>
+            <Id>ABC123</Id>
+			<quantity>180</quantity>
+		</Item>
+		<Item>
+            <Id>CR2032</Id>
+			<quantity>320</quantity>
+		</Item>
+			</Order>
+	<Order id="TO-002" Destination="Boston,MA" Day="1">
+		<Item>
+            <Id>PL132-C</Id>
+			<quantity>5</quantity>
+		</Item>
+		<Item>
+            <Id>XLK200B</Id>
+			<quantity>120</quantity>
+		</Item>
+			</Order>
+	<Order id="TO-003" Destination="Seattle,WA" Day="4">
+		<Item>
+            <Id>XTP202</Id>
+			<quantity>100</quantity>
+		</Item>
+		<Item>
+            <Id>E241i</Id>
+			<quantity>105</quantity>
+		</Item>
+			
+			</Order>
+	<Order id="TO-004" Destination="Phoenix,AZ" Day="10">
+			
+		<Item>
+            <Id>CR2032</Id>
+			<quantity>200</quantity>
+		</Item>
+		<Item>
+            <Id>SR71-D</Id>
+			<quantity>85</quantity>
+		</Item>
+			</Order>
+	<Order id="TO-005" Destination="Chicago,IL" Day="7">
+			<Item>
+            <Id>XLK200B</Id>
+			<quantity>120</quantity>
+		</Item>
+		<Item>
+            <Id>RX100-3</Id>
+			<quantity>200</quantity>
+		</Item>
+		<Item>
+            <Id>SN-241-L</Id>
+			<quantity>60</quantity>
+		</Item>
+		
+			</Order>
+	<Order id="TO-006" Destination="Denver,CO" Day="8">
+		<Item>
+            <Id>CT1928</Id>
+			<quantity>120</quantity>
+		</Item>
+		<Item>
+            <Id>MM35P</Id>
+			<quantity>200</quantity>
+		</Item>
+			</Order>
+	</Orders>

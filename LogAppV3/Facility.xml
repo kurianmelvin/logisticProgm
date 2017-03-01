@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Facilities>
+<Facility Name="Seattle, WA" Cost="300" Rate="8">
+	    <Item>
+            <Id>ABC123</Id>
+			<quantity>45</quantity>
+		</Item>
+		<Item>
+            <Id>JBL3100</Id>
+			<quantity>52</quantity>
+		</Item>
+		<Item>
+            <Id>PL132-C</Id>
+			<quantity>54</quantity>
+		</Item>
+		<Item>
+            <Id>PU238</Id>
+			<quantity>60</quantity>
+		</Item>	
+</Facility>
+<Facility Name="San Francisco, CA" Cost="300" Rate="12">
+	<Item>
+            <Id>RL123A</Id>
+			<quantity>40</quantity>
+		</Item>
+		<Item>
+            <Id>XLK200B</Id>
+			<quantity>8</quantity>
+		</Item>
+		<Item>
+            <Id>SR71-D</Id>
+			<quantity>81</quantity>
+		</Item>
+		<Item>
+            <Id>CT1928</Id>
+			<quantity>46</quantity>
+		</Item>
+</Facility>
+<Facility Name="Los Angeles, CA" Cost="300" Rate="10">
+	<Item>
+            <Id>RX100-3</Id>
+			<quantity>57</quantity>
+		</Item>
+		<Item>
+            <Id>JBL3100</Id>
+			<quantity>60</quantity>
+		</Item>
+		<Item>
+            <Id>E241i</Id>
+			<quantity>44</quantity>
+		</Item>
+		<Item>
+            <Id>XTP202</Id>
+			<quantity>32</quantity>
+		</Item>
+</Facility>
+<Facility Name="Phoenix, AZ" Cost="300" Rate="8">
+	<Item>
+            <Id>RX100-3</Id>
+			<quantity>18</quantity>
+		</Item>
+		<Item>
+            <Id>SR71-D</Id>
+			<quantity>55</quantity>
+		</Item>
+		<Item>
+            <Id>SN-241-L</Id>
+			<quantity>22</quantity>
+		</Item>
+		<Item>
+            <Id>ZTF109</Id>
+			<quantity>54</quantity>
+		</Item>
+</Facility>
+<Facility Name="Denver, CO" Cost="300" Rate="10">
+	<Item>
+            <Id>ABC123</Id>
+			<quantity>80</quantity>
+		</Item>
+		<Item>
+            <Id>RL123A</Id>
+			<quantity>110</quantity>
+		</Item>
+		<Item>
+            <Id>RTF110</Id>
+			<quantity>100</quantity>
+		</Item>
+</Facility>
+
+<Facility Name="Santa Fe, NM" Cost="300" Rate="8">
+	<Item>
+            <Id>RX100-3</Id>
+			<quantity>144</quantity>
+		</Item>
+		<Item>
+            <Id>CR2032</Id>
+			<quantity>280</quantity>
+		</Item>
+</Facility>
+
+<Facility Name="Fargo, ND" Cost="300" Rate="8">
+	<Item>
+            <Id>ABC123</Id>
+			<quantity>25</quantity>
+		</Item>
+		<Item>
+            <Id>JBL3100</Id>
+			<quantity>32</quantity>
+		</Item>
+		<Item>
+            <Id>XLK200B</Id>
+			<quantity>82</quantity>
+		</Item>
+</Facility>
+
+<Facility Name="Austin, TX" Cost="300" Rate="10">
+	<Item>
+            <Id>RL123A</Id>
+			<quantity>66</quantity>
+		</Item>
+		<Item>
+            <Id>RX100-3</Id>
+			<quantity>35</quantity>
+		</Item>
+		<Item>
+            <Id>SN-241-L </Id>
+			<quantity>35</quantity>
+		</Item>
+</Facility>
+
+<Facility Name="St. Louis, MO" Cost="300" Rate="12">
+	<Item>
+            <Id>ABC123</Id>
+			<quantity>70</quantity>
+		</Item>
+		<Item>
+            <Id>SR71-D</Id>
+			<quantity>45</quantity>
+		</Item>
+		<Item>
+            <Id>PU238</Id>
+			<quantity>82</quantity>
+		</Item>
+</Facility>
+
+<Facility Name="Chicago, IL" Cost="300" Rate="10">
+	<Item>
+            <Id>ABC123</Id>
+			<quantity>60</quantity>
+		</Item>
+		<Item>
+            <Id>E241i</Id>
+			<quantity>64</quantity>
+		</Item>
+		<Item>
+            <Id>CT1928</Id>
+			<quantity>20</quantity>
+		</Item>
+		<Item>
+            <Id>RTF110</Id>
+			<quantity>110</quantity>
+		</Item>
+		<Item>
+            <Id>XTP202</Id>
+			<quantity>20</quantity>
+		</Item>	
+</Facility>
+
+<Facility Name="New Orleans, LA" Cost="300" Rate="10">
+	<Item>
+            <Id>MM35P</Id>
+			<quantity>100</quantity>
+		</Item>
+		<Item>
+            <Id>PU238</Id>
+			<quantity>49</quantity>
+		</Item>
+		<Item>
+            <Id>ZTF109</Id>
+			<quantity>120</quantity>
+		</Item>
+</Facility>
+
+<Facility Name="Nashville, TN" Cost="300" Rate="8">
+	<Item>
+            <Id>RX100-3</Id>
+			<quantity>78</quantity>
+		</Item>
+		<Item>
+            <Id>XLK200B</Id>
+			<quantity>250</quantity>
+		</Item>
+		<Item>
+            <Id>CR2032</Id>
+			<quantity>366</quantity>
+		</Item>
+		<Item>
+            <Id>SN-241-L </Id>
+			<quantity>16</quantity>
+		</Item>
+</Facility>
+
+<Facility Name="Detroit, MI" Cost="300" Rate="10"> 
+	<Item>
+            <Id>JBL3100</Id>
+			<quantity>117</quantity>
+		</Item>
+		<Item>
+            <Id>SR71-D </Id>
+			<quantity>8</quantity>
+		</Item>
+		<Item>
+            <Id>CT1928</Id>
+			<quantity>72</quantity>
+		</Item>
+</Facility>
+
+<Facility Name="Boston, MA" Cost="300" Rate="10">
+	<Item>
+            <Id>MM35P</Id>
+			<quantity>47</quantity>
+		</Item>
+		<Item>
+            <Id>PL132-C</Id>
+			<quantity>83</quantity>
+		</Item>
+		<Item>
+            <Id>CT1928</Id>
+			<quantity>65</quantity>
+		</Item>
+</Facility>
+
+<Facility Name="New York City, NY" Cost="300" Rate="14">
+<Item>
+            <Id>RL123A</Id>
+			<quantity>12</quantity>
+		</Item>
+		<Item>
+            <Id>CR2032</Id>
+			<quantity>132</quantity>
+		</Item>
+		<Item>
+            <Id>E241i</Id>
+			<quantity>72</quantity>
+		</Item>
+		<Item>
+            <Id>ZTF109</Id>
+			<quantity>28</quantity>
+		</Item>
+</Facility>
+
+<Facility Name="Norfolk, VA" Cost="300" Rate="10">
+	<Item>
+            <Id>MM35P</Id>
+			<quantity>66</quantity>
+		</Item>
+		<Item>
+            <Id>RL123A</Id>
+			<quantity>50</quantity>
+		</Item>
+		<Item>
+            <Id>XLK200B</Id>
+			<quantity>14</quantity>
+		</Item>
+</Facility>
+
+<Facility Name="Atlanta, GA" Cost="300" Rate="10">
+	<Item>
+            <Id>RX100-3</Id>
+			<quantity>90</quantity>
+		</Item>
+		<Item>
+            <Id>E241i</Id>
+			<quantity>32</quantity>
+		</Item>
+		<Item>
+            <Id>PU238</Id>
+			<quantity>120</quantity>
+		</Item>
+</Facility>
+
+<Facility Name="Miami, FL" Cost="300" Rate="12">
+	<Item>
+            <Id>MM35P</Id>
+			<quantity>16</quantity>
+		</Item>
+		<Item>
+            <Id>JBL3100</Id>
+			<quantity>44</quantity>
+		</Item>
+		<Item>
+            <Id>SR71-D</Id>
+			<quantity>15</quantity>
+		</Item>
+		<Item>
+            <Id>SN-241-L</Id>
+			<quantity>28</quantity>
+		</Item>
+		<Item>
+            <Id>XTP202</Id>
+			<quantity>88</quantity>
+		</Item>
+</Facility>
+
+
+</Facilities>
